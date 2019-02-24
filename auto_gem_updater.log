@@ -1,0 +1,271 @@
+accordion_menu_test/Gemfile => Update target!
+[START] gemfile_backup accordion_menu_test/Gemfile => AutoGemUpdater_20190224_111419/accordion_menu_test/
+[END] gemfile_backup accordion_menu_test/Gemfile => AutoGemUpdater_20190224_111419/accordion_menu_test/
+[START] gemfile_update accordion_menu_test/Gemfile => {:name=>"bootstrap-sass", :version=>"3.3.7"} to {:name=>"bootstrap-sass", :version=>"3.4.1"}
+[END] gemfile_update accordion_menu_test/Gemfile => {:name=>"bootstrap-sass", :version=>"3.3.7"} to {:name=>"bootstrap-sass", :version=>"3.4.1"}
+[START] execute_git
+[END] execute_git
+accordion_menu_test/Gemfile => Not target
+=== CHECK STR accordion_menu_test/ 2019-02-24 11:26:22 +0900
+accordion_menu_test/Gemfile => Not target
+=== CHECK END accordion_menu_test/ 2019-02-24 11:26:22 +0900
+=== CHECK STR accordion_menu_test/ 2019-02-24 11:26:41 +0900
+accordion_menu_test/Gemfile => Not target
+=== CHECK END accordion_menu_test/ 2019-02-24 11:26:41 +0900
+=== CHECK STR accordion_menu_test/ 2019-02-24 11:26:45 +0900
+accordion_menu_test/Gemfile => Not target
+=== CHECK END accordion_menu_test/ 2019-02-24 11:26:45 +0900
+=== CHECK STR accordion_menu_test/ 2019-02-24 11:27:20 +0900
+accordion_menu_test/Gemfile => Not target
+=== CHECK END accordion_menu_test/ 2019-02-24 11:27:20 +0900
+
+=== CHECK STR accordion_menu_test/ 2019-02-24 11:27:24 +0900
+accordion_menu_test/Gemfile => Not target
+=== CHECK END accordion_menu_test/ 2019-02-24 11:27:24 +0900
+
+=== CHECK STR incremental_search_test/ 2019-02-24 11:28:04 +0900
+incremental_search_test/Gemfile => Update target!
+[START] gemfile_backup incremental_search_test/Gemfile => AutoGemUpdater_20190224_112804/incremental_search_test/
+[END] gemfile_backup incremental_search_test/Gemfile => AutoGemUpdater_20190224_112804/incremental_search_test/
+[START] gemfile_update incremental_search_test/Gemfile => {:name=>"bootstrap-sass", :version=>"3.3.7"} to {:name=>"bootstrap-sass", :version=>"3.4.1"}
+[END] gemfile_update incremental_search_test/Gemfile => {:name=>"bootstrap-sass", :version=>"3.3.7"} to {:name=>"bootstrap-sass", :version=>"3.4.1"}
+[START] execute_git
+[END] execute_git
+=== CHECK END incremental_search_test/ 2019-02-24 11:28:12 +0900
+
+=== CHECK STR ac_test_dynamic_channel_ver/ 2019-02-24 11:29:33 +0900
+ac_test_dynamic_channel_ver/Gemfile => Update target!
+[START] gemfile_backup ac_test_dynamic_channel_ver/Gemfile => AutoGemUpdater_20190224_112933/ac_test_dynamic_channel_ver/
+[END] gemfile_backup ac_test_dynamic_channel_ver/Gemfile => AutoGemUpdater_20190224_112933/ac_test_dynamic_channel_ver/
+[START] gemfile_update ac_test_dynamic_channel_ver/Gemfile => {:name=>"bootstrap-sass", :version=>"3.3.7"} to {:name=>"bootstrap-sass", :version=>"3.4.1"}
+[END] gemfile_update ac_test_dynamic_channel_ver/Gemfile => {:name=>"bootstrap-sass", :version=>"3.3.7"} to {:name=>"bootstrap-sass", :version=>"3.4.1"}
+[START] execute_git
+[END] execute_git
+=== CHECK END ac_test_dynamic_channel_ver/ 2019-02-24 11:29:41 +0900
+
+=== CHECK STR ac_test_dynamic_channel_ver 2019-02-24 11:30:50 +0900
+ac_test_dynamic_channel_ver/Gemfile => Not target
+=== CHECK END ac_test_dynamic_channel_ver 2019-02-24 11:30:50 +0900
+
+=== CHECK STR ac_test_identify_sender_ver 2019-02-24 11:30:50 +0900
+ac_test_identify_sender_ver/Gemfile => Update target!
+[START] gemfile_backup ac_test_identify_sender_ver/Gemfile => AutoGemUpdater_20190224_113050/ac_test_identify_sender_ver
+[END] gemfile_backup ac_test_identify_sender_ver/Gemfile => AutoGemUpdater_20190224_113050/ac_test_identify_sender_ver
+[START] gemfile_update ac_test_identify_sender_ver/Gemfile => {:name=>"bootstrap-sass", :version=>"3.3.7"} to {:name=>"bootstrap-sass", :version=>"3.4.1"}
+[END] gemfile_update ac_test_identify_sender_ver/Gemfile => {:name=>"bootstrap-sass", :version=>"3.3.7"} to {:name=>"bootstrap-sass", :version=>"3.4.1"}
+[START] execute_git
+[END] execute_git
+=== CHECK END ac_test_identify_sender_ver 2019-02-24 11:30:56 +0900
+
+=== CHECK STR ac_test_static_channel_ver 2019-02-24 11:30:56 +0900
+ac_test_static_channel_ver/Gemfile => Update target!
+[START] gemfile_backup ac_test_static_channel_ver/Gemfile => AutoGemUpdater_20190224_113050/ac_test_static_channel_ver
+[END] gemfile_backup ac_test_static_channel_ver/Gemfile => AutoGemUpdater_20190224_113050/ac_test_static_channel_ver
+[START] gemfile_update ac_test_static_channel_ver/Gemfile => {:name=>"bootstrap-sass", :version=>"3.3.7"} to {:name=>"bootstrap-sass", :version=>"3.4.1"}
+[END] gemfile_update ac_test_static_channel_ver/Gemfile => {:name=>"bootstrap-sass", :version=>"3.3.7"} to {:name=>"bootstrap-sass", :version=>"3.4.1"}
+[START] execute_git
+[END] execute_git
+=== CHECK END ac_test_static_channel_ver 2019-02-24 11:31:03 +0900
+
+=== CHECK STR ac_test_stream_for_ver 2019-02-24 11:31:03 +0900
+ac_test_stream_for_ver/Gemfile => Update target!
+[START] gemfile_backup ac_test_stream_for_ver/Gemfile => AutoGemUpdater_20190224_113050/ac_test_stream_for_ver
+[END] gemfile_backup ac_test_stream_for_ver/Gemfile => AutoGemUpdater_20190224_113050/ac_test_stream_for_ver
+[START] gemfile_update ac_test_stream_for_ver/Gemfile => {:name=>"bootstrap-sass", :version=>"3.3.7"} to {:name=>"bootstrap-sass", :version=>"3.4.1"}
+[END] gemfile_update ac_test_stream_for_ver/Gemfile => {:name=>"bootstrap-sass", :version=>"3.3.7"} to {:name=>"bootstrap-sass", :version=>"3.4.1"}
+[START] execute_git
+[END] execute_git
+=== CHECK END ac_test_stream_for_ver 2019-02-24 11:31:09 +0900
+
+=== CHECK STR dependent_destory_test/ 2019-02-24 11:31:53 +0900
+dependent_destory_test/Gemfile => Update target!
+[START] gemfile_backup dependent_destory_test/Gemfile => AutoGemUpdater_20190224_113153/dependent_destory_test/
+[END] gemfile_backup dependent_destory_test/Gemfile => AutoGemUpdater_20190224_113153/dependent_destory_test/
+[START] gemfile_update dependent_destory_test/Gemfile => {:name=>"bootstrap-sass", :version=>"3.3.7"} to {:name=>"bootstrap-sass", :version=>"3.4.1"}
+[END] gemfile_update dependent_destory_test/Gemfile => {:name=>"bootstrap-sass", :version=>"3.3.7"} to {:name=>"bootstrap-sass", :version=>"3.4.1"}
+[START] execute_git
+[END] execute_git
+=== CHECK END dependent_destory_test/ 2019-02-24 11:32:01 +0900
+
+=== CHECK STR has_one_belongs_to_test/ 2019-02-24 11:32:15 +0900
+has_one_belongs_to_test/Gemfile => Update target!
+[START] gemfile_backup has_one_belongs_to_test/Gemfile => AutoGemUpdater_20190224_113215/has_one_belongs_to_test/
+[END] gemfile_backup has_one_belongs_to_test/Gemfile => AutoGemUpdater_20190224_113215/has_one_belongs_to_test/
+[START] gemfile_update has_one_belongs_to_test/Gemfile => {:name=>"bootstrap-sass", :version=>"3.3.7"} to {:name=>"bootstrap-sass", :version=>"3.4.1"}
+[END] gemfile_update has_one_belongs_to_test/Gemfile => {:name=>"bootstrap-sass", :version=>"3.3.7"} to {:name=>"bootstrap-sass", :version=>"3.4.1"}
+[START] execute_git
+[END] execute_git
+=== CHECK END has_one_belongs_to_test/ 2019-02-24 11:32:23 +0900
+
+=== CHECK STR has_one_belongs_to_test/ 2019-02-24 11:35:50 +0900
+has_one_belongs_to_test/Gemfile => Not target
+=== CHECK END has_one_belongs_to_test/ 2019-02-24 11:35:50 +0900
+
+=== CHECK STR image_upload_test/ 2019-02-24 11:36:19 +0900
+image_upload_test/Gemfile => Update target!
+[START] gemfile_backup image_upload_test/Gemfile => AutoGemUpdater_20190224_113619/image_upload_test/
+[END] gemfile_backup image_upload_test/Gemfile => AutoGemUpdater_20190224_113619/image_upload_test/
+[START] gemfile_update image_upload_test/Gemfile => {:name=>"bootstrap-sass", :version=>"3.3.7"} to {:name=>"bootstrap-sass", :version=>"3.4.1"}
+[END] gemfile_update image_upload_test/Gemfile => {:name=>"bootstrap-sass", :version=>"3.3.7"} to {:name=>"bootstrap-sass", :version=>"3.4.1"}
+[START] execute_git
+[END] execute_git
+=== CHECK END image_upload_test/ 2019-02-24 11:36:25 +0900
+
+=== CHECK STR incremental_search_test/ 2019-02-24 11:36:33 +0900
+incremental_search_test/Gemfile => Not target
+=== CHECK END incremental_search_test/ 2019-02-24 11:36:33 +0900
+
+=== CHECK STR infinite_scroll_test_lib_ver 2019-02-24 11:37:22 +0900
+infinite_scroll_test_lib_ver/Gemfile => Update target!
+[START] gemfile_backup infinite_scroll_test_lib_ver/Gemfile => AutoGemUpdater_20190224_113722/infinite_scroll_test_lib_ver
+[END] gemfile_backup infinite_scroll_test_lib_ver/Gemfile => AutoGemUpdater_20190224_113722/infinite_scroll_test_lib_ver
+[START] gemfile_update infinite_scroll_test_lib_ver/Gemfile => {:name=>"bootstrap-sass", :version=>"3.3.7"} to {:name=>"bootstrap-sass", :version=>"3.4.1"}
+[END] gemfile_update infinite_scroll_test_lib_ver/Gemfile => {:name=>"bootstrap-sass", :version=>"3.3.7"} to {:name=>"bootstrap-sass", :version=>"3.4.1"}
+[START] execute_git
+[END] execute_git
+=== CHECK END infinite_scroll_test_lib_ver 2019-02-24 11:37:29 +0900
+
+=== CHECK STR infinite_scroll_test_original_ver 2019-02-24 11:37:29 +0900
+infinite_scroll_test_original_ver/Gemfile => Update target!
+[START] gemfile_backup infinite_scroll_test_original_ver/Gemfile => AutoGemUpdater_20190224_113722/infinite_scroll_test_original_ver
+[END] gemfile_backup infinite_scroll_test_original_ver/Gemfile => AutoGemUpdater_20190224_113722/infinite_scroll_test_original_ver
+[START] gemfile_update infinite_scroll_test_original_ver/Gemfile => {:name=>"bootstrap-sass", :version=>"3.3.7"} to {:name=>"bootstrap-sass", :version=>"3.4.1"}
+[END] gemfile_update infinite_scroll_test_original_ver/Gemfile => {:name=>"bootstrap-sass", :version=>"3.3.7"} to {:name=>"bootstrap-sass", :version=>"3.4.1"}
+[START] execute_git
+[END] execute_git
+=== CHECK END infinite_scroll_test_original_ver 2019-02-24 11:37:35 +0900
+
+=== CHECK STR izi_modal_test/ 2019-02-24 11:37:40 +0900
+izi_modal_test/Gemfile => Update target!
+[START] gemfile_backup izi_modal_test/Gemfile => AutoGemUpdater_20190224_113740/izi_modal_test/
+[END] gemfile_backup izi_modal_test/Gemfile => AutoGemUpdater_20190224_113740/izi_modal_test/
+[START] gemfile_update izi_modal_test/Gemfile => {:name=>"bootstrap-sass", :version=>"3.3.7"} to {:name=>"bootstrap-sass", :version=>"3.4.1"}
+[END] gemfile_update izi_modal_test/Gemfile => {:name=>"bootstrap-sass", :version=>"3.3.7"} to {:name=>"bootstrap-sass", :version=>"3.4.1"}
+[START] execute_git
+[END] execute_git
+=== CHECK END izi_modal_test/ 2019-02-24 11:37:46 +0900
+
+=== CHECK STR izi_modal_test/ 2019-02-24 11:40:40 +0900
+izi_modal_test/Gemfile => Not target
+=== CHECK END izi_modal_test/ 2019-02-24 11:40:40 +0900
+
+=== CHECK STR jquery_file_upload_test/ 2019-02-24 11:40:46 +0900
+jquery_file_upload_test/Gemfile => Update target!
+[START] gemfile_backup jquery_file_upload_test/Gemfile => AutoGemUpdater_20190224_114046/jquery_file_upload_test/
+[END] gemfile_backup jquery_file_upload_test/Gemfile => AutoGemUpdater_20190224_114046/jquery_file_upload_test/
+[START] gemfile_update jquery_file_upload_test/Gemfile => {:name=>"bootstrap-sass", :version=>"3.3.7"} to {:name=>"bootstrap-sass", :version=>"3.4.1"}
+[END] gemfile_update jquery_file_upload_test/Gemfile => {:name=>"bootstrap-sass", :version=>"3.3.7"} to {:name=>"bootstrap-sass", :version=>"3.4.1"}
+[START] execute_gem_update
+[END] execute_gem_update
+[START] execute_git
+[END] execute_git
+=== CHECK END jquery_file_upload_test/ 2019-02-24 11:40:56 +0900
+
+=== CHECK STR jquery_file_upload_test/ 2019-02-24 11:55:19 +0900
+jquery_file_upload_test/Gemfile => Not target
+=== CHECK END jquery_file_upload_test/ 2019-02-24 11:55:19 +0900
+
+=== CHECK STR js_test/ 2019-02-24 11:55:29 +0900
+js_test/Gemfile => Update target!
+[START] gemfile_backup js_test/Gemfile => AutoGemUpdater_20190224_115529/js_test/
+[END] gemfile_backup js_test/Gemfile => AutoGemUpdater_20190224_115529/js_test/
+[START] gemfile_update js_test/Gemfile => {:name=>"bootstrap-sass", :version=>"3.3.7"} to {:name=>"bootstrap-sass", :version=>"3.4.1"}
+[END] gemfile_update js_test/Gemfile => {:name=>"bootstrap-sass", :version=>"3.3.7"} to {:name=>"bootstrap-sass", :version=>"3.4.1"}
+[START] execute_gem_update
+[END] execute_gem_update
+[START] execute_git
+[END] execute_git
+=== CHECK END js_test/ 2019-02-24 11:55:39 +0900
+
+=== CHECK STR lightbox_test 2019-02-24 11:55:58 +0900
+lightbox_test/Gemfile => Update target!
+[START] gemfile_backup lightbox_test/Gemfile => AutoGemUpdater_20190224_115558/lightbox_test
+[END] gemfile_backup lightbox_test/Gemfile => AutoGemUpdater_20190224_115558/lightbox_test
+[START] gemfile_update lightbox_test/Gemfile => {:name=>"bootstrap-sass", :version=>"3.3.7"} to {:name=>"bootstrap-sass", :version=>"3.4.1"}
+[END] gemfile_update lightbox_test/Gemfile => {:name=>"bootstrap-sass", :version=>"3.3.7"} to {:name=>"bootstrap-sass", :version=>"3.4.1"}
+[START] execute_gem_update
+[END] execute_gem_update
+[START] execute_git
+[END] execute_git
+=== CHECK END lightbox_test 2019-02-24 11:56:09 +0900
+
+=== CHECK STR line_css_test 2019-02-24 11:56:09 +0900
+line_css_test/Gemfile => Update target!
+[START] gemfile_backup line_css_test/Gemfile => AutoGemUpdater_20190224_115558/line_css_test
+[END] gemfile_backup line_css_test/Gemfile => AutoGemUpdater_20190224_115558/line_css_test
+[START] gemfile_update line_css_test/Gemfile => {:name=>"bootstrap-sass", :version=>"3.3.7"} to {:name=>"bootstrap-sass", :version=>"3.4.1"}
+[END] gemfile_update line_css_test/Gemfile => {:name=>"bootstrap-sass", :version=>"3.3.7"} to {:name=>"bootstrap-sass", :version=>"3.4.1"}
+[START] execute_gem_update
+[END] execute_gem_update
+[START] execute_git
+[END] execute_git
+=== CHECK END line_css_test 2019-02-24 11:56:13 +0900
+
+=== CHECK STR lots_of_delete_test/ 2019-02-24 11:56:22 +0900
+lots_of_delete_test/Gemfile => Not target
+=== CHECK END lots_of_delete_test/ 2019-02-24 11:56:22 +0900
+
+=== CHECK STR psql_test/ 2019-02-24 11:56:29 +0900
+psql_test/Gemfile => Not target
+=== CHECK END psql_test/ 2019-02-24 11:56:29 +0900
+
+=== CHECK STR query_test/ 2019-02-24 11:56:34 +0900
+query_test/Gemfile => Not target
+=== CHECK END query_test/ 2019-02-24 11:56:34 +0900
+
+=== CHECK STR rspec_test/ 2019-02-24 11:56:40 +0900
+rspec_test/Gemfile => Not target
+=== CHECK END rspec_test/ 2019-02-24 11:56:40 +0900
+
+=== CHECK STR scroll_postion_test/ 2019-02-24 11:56:46 +0900
+scroll_postion_test/Gemfile => Update target!
+[START] gemfile_backup scroll_postion_test/Gemfile => AutoGemUpdater_20190224_115646/scroll_postion_test/
+[END] gemfile_backup scroll_postion_test/Gemfile => AutoGemUpdater_20190224_115646/scroll_postion_test/
+[START] gemfile_update scroll_postion_test/Gemfile => {:name=>"bootstrap-sass", :version=>"3.3.7"} to {:name=>"bootstrap-sass", :version=>"3.4.1"}
+[END] gemfile_update scroll_postion_test/Gemfile => {:name=>"bootstrap-sass", :version=>"3.3.7"} to {:name=>"bootstrap-sass", :version=>"3.4.1"}
+[START] execute_gem_update
+[END] execute_gem_update
+[START] execute_git
+[END] execute_git
+=== CHECK END scroll_postion_test/ 2019-02-24 11:56:51 +0900
+
+=== CHECK STR search_test/ 2019-02-24 11:57:00 +0900
+search_test/Gemfile => Update target!
+[START] gemfile_backup search_test/Gemfile => AutoGemUpdater_20190224_115700/search_test/
+[END] gemfile_backup search_test/Gemfile => AutoGemUpdater_20190224_115700/search_test/
+[START] gemfile_update search_test/Gemfile => {:name=>"bootstrap-sass", :version=>"3.3.7"} to {:name=>"bootstrap-sass", :version=>"3.4.1"}
+[END] gemfile_update search_test/Gemfile => {:name=>"bootstrap-sass", :version=>"3.3.7"} to {:name=>"bootstrap-sass", :version=>"3.4.1"}
+[START] execute_gem_update
+[END] execute_gem_update
+[START] execute_git
+[END] execute_git
+=== CHECK END search_test/ 2019-02-24 11:57:10 +0900
+
+=== CHECK STR sweet_alert_test/ 2019-02-24 11:57:17 +0900
+sweet_alert_test/Gemfile => Update target!
+[START] gemfile_backup sweet_alert_test/Gemfile => AutoGemUpdater_20190224_115717/sweet_alert_test/
+[END] gemfile_backup sweet_alert_test/Gemfile => AutoGemUpdater_20190224_115717/sweet_alert_test/
+[START] gemfile_update sweet_alert_test/Gemfile => {:name=>"bootstrap-sass", :version=>"3.3.7"} to {:name=>"bootstrap-sass", :version=>"3.4.1"}
+[END] gemfile_update sweet_alert_test/Gemfile => {:name=>"bootstrap-sass", :version=>"3.3.7"} to {:name=>"bootstrap-sass", :version=>"3.4.1"}
+[START] execute_gem_update
+[END] execute_gem_update
+[START] execute_git
+[END] execute_git
+=== CHECK END sweet_alert_test/ 2019-02-24 11:57:28 +0900
+
+=== CHECK STR ujs_test/ 2019-02-24 11:57:34 +0900
+ujs_test/Gemfile => Update target!
+[START] gemfile_backup ujs_test/Gemfile => AutoGemUpdater_20190224_115734/ujs_test/
+[END] gemfile_backup ujs_test/Gemfile => AutoGemUpdater_20190224_115734/ujs_test/
+[START] gemfile_update ujs_test/Gemfile => {:name=>"bootstrap-sass", :version=>"3.3.7"} to {:name=>"bootstrap-sass", :version=>"3.4.1"}
+[END] gemfile_update ujs_test/Gemfile => {:name=>"bootstrap-sass", :version=>"3.3.7"} to {:name=>"bootstrap-sass", :version=>"3.4.1"}
+[START] execute_gem_update
+[END] execute_gem_update
+[START] execute_git
+[END] execute_git
+=== CHECK END ujs_test/ 2019-02-24 11:57:45 +0900
+
+=== CHECK STR vue_test/ 2019-02-24 11:57:49 +0900
+vue_test/Gemfile => Not target
+=== CHECK END vue_test/ 2019-02-24 11:57:49 +0900
+
